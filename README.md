@@ -4,7 +4,7 @@
 
 # 文章链接
 
-1. [Git的基本概念](https://editor.csdn.net/md/?articleId=111041720)
+1. [Git的基本概念](https://blog.csdn.net/weixin_44004835/article/details/111041720)
 2. [Git的四大区域](https://blog.csdn.net/weixin_44004835/article/details/111047770)
 
 # 后面会持续更新，期待你的关注
